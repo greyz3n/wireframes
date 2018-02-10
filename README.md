@@ -1,2 +1,2 @@
 # wireframes
-my wireframes - go away
+Just collections of Wireframes that I'm concepting.
